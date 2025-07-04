@@ -1,0 +1,25 @@
+p{
+    background-color: rgb(24, 211, 224);
+    color: black;
+            font-size: small;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.this{
+    background-color: rgb(126, 24, 227);
+    color: chartreuse;
+    width:fit-content;
+    margin: 30px;
+    padding: 35px;
+
+}
+.these{
+     background-color: rgb(10, 2, 18);
+    color: rgb(226, 18, 192);
+    width:fit-content;
+    margin: 30px;
+    padding: 17px;
+}
+body{
+    background-color: blanchedalmond;
+}
